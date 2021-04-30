@@ -3,8 +3,8 @@
 ### 꼼꼼한 재은씨의 Swift 실전편
 ---
 #### Study 일정
-- Chapter 01 - 4월 26일
-- Chapter 02 - 4월 27, 28일
+- ✅ Chapter 01 - 4월 26일
+- ✅ Chapter 02 - 4월 27, 28일
 - Chapter 03 - 4월 29, 30, 5월 1일
 - Chapter 04 - 5월 2, 3일
 - Chapter 05 - 5월 4, 5일
